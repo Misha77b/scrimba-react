@@ -1,6 +1,6 @@
-# Scrimba learn React course
+# `Scrimba learn React course`
 
-This course contains 170 interactive screencasts spread across 4 modules.
+`This course contains 170 interactive screencasts spread across 4 modules.`
 
 - Build a react info site
 
@@ -10,7 +10,7 @@ This course contains 170 interactive screencasts spread across 4 modules.
 
 - Build a note app and Tenzies game
 
-## You'll learn
+## `I'll learn `
 
 > - Local setup
 >
